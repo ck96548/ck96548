@@ -14,6 +14,14 @@ Welcome to my GitHub! I'm a passionate software engineer with a focus on buildin
 
 ## 🌟 Featured Projects
 
+### 🧑‍🤝‍🧑 vybe
+
+🚀 Vybe — A modern social media app built with JavaScript.
+🌐 Connect with friends, share posts, and stay updated in real-time.
+🔐 Includes user authentication, profiles, and follow/unfollow features.
+📱 Responsive design for seamless experience on all devices.
+💬 Designed to build communities and promote interaction.
+
 ### 🚗 Swift Ride
 A comprehensive platform designed for seamless ride-hailing and food delivery experiences.  
 - **Tech Stack:** React.js, Node.js, MongoDB, Docker, AWS  
@@ -34,9 +42,7 @@ A lightning-fast productivity tool to help you organise tasks, notes, and projec
 
 <!--
 ## 🌐 Connect with Me
-
-(Social media links coming soon!)
--->
+LinkedIn: https://www.linkedin.com/in/chandan-kumar101/
 
 ---
 
