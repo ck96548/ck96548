@@ -14,13 +14,24 @@ Welcome to my GitHub! I'm a passionate software engineer with a focus on buildin
 
 ## 🌟 Featured Projects
 
-### 🧑‍🤝‍🧑 vybe
+### 🧑‍🤝‍🧑 vybe   🌍 Website: https://vybeui.onrender.com/
 
 🚀 Vybe — A modern social media app built with JavaScript.
 🌐 Connect with friends, share posts, and stay updated in real-time.
 🔐 Includes user authentication, profiles, and follow/unfollow features.
 📱 Responsive design for seamless experience on all devices.
 💬 Designed to build communities and promote interaction.
+
+🛠️ Tech Stack: React.js, Node.js, MongoDB, Express.js, Socket.io, Docker, AWS
+✨ Features:
+📝 User registration & secure authentication
+📸 Post creation with images, videos, and text
+🔔 Real-time notifications & activity feed
+🤝 Follow/unfollow users and build networks
+💬 In-app messaging for private & group chats
+🛡️ Privacy settings & customizable profiles
+📱 Responsive UI for mobile and desktop
+
 
 ### 🚗 Swift Ride
 A comprehensive platform designed for seamless ride-hailing and food delivery experiences.  
