@@ -31,6 +31,7 @@ Welcome to my GitHub! I'm a passionate software engineer with a focus on buildin
 💬 In-app messaging for private & group chats
 🛡️ Privacy settings & customizable profiles
 📱 Responsive UI for mobile and desktop
+- [Explore the repo!](https://github.com/ck96548/vybe)
 
 
 ### 🚗 Swift Ride
