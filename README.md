@@ -42,8 +42,8 @@ A comprehensive platform designed for seamless ride-hailing and food delivery ex
 
 ### ⚡ Quickish
 A lightning-fast productivity tool to help you organise tasks, notes, and projects efficiently.  
-- **Tech Stack:** (Add the stack here if you wish)  
-- **Features:** (Add key features here, e.g., task management, quick notes, reminders, collaboration, etc.)  
+- **Tech Stack:** React.js, Redux toolkit, Tailwind, JavaScript
+- **Features:** A food delivery web application where we can order our food.
 - [Explore the repo!](https://github.com/ck96548/quickish)
 
 ## 💡 About Me
